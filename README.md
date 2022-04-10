@@ -13,8 +13,7 @@ You will also see any lint errors in the console.
 ### `yarn test`
 
 Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
+There are currently two test cases one is for custom hook useFetch and other is for 1st user from API.
 ### `deployment`
 
 This app is deployed on netlify , this is link for [live deployement](https://62531cbe12d6532ee99d978f--jitera.netlify.app)
