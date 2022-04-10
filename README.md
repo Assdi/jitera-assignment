@@ -21,4 +21,4 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### `deployment`
 
-This app is deployed on heroku , this is link for [live deployement](https://jitera-assignment.herokuapp.com/)
+This app is deployed on heroku , this is link for [live deployement](https://62531cbe12d6532ee99d978f--jitera.netlify.app)
